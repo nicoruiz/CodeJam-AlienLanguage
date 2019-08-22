@@ -1,0 +1,5 @@
+﻿Para correr el programa: 
+* El .hs debe estar en la misma carpeta que el input.
+* Ejecutar el programa main e ingresar el nombre del input file. 
+Por ejemplo: A-small-practice.in.
+* El resultado de la ejecucion se generará en un archivo output.txt ubicado en la carpeta de ejecucion.
